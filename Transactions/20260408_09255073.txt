@@ -1,0 +1,4 @@
+PRODUCT_ID     |PRODUCT_NAME                                    |COST         |QUANTITY|TOTAL_COST   |TYPE|DATE    |TIME
+000000001      |Phone                                           |        96.00|       2|       192.00|Buy |20260408|09255073
+000000002      |Laptop                                          |       149.99|       1|       149.99|Buy |20260408|09255073
+000000003      |Charger                                         |       100.00|       3|       300.00|Buy |20260408|09255073
