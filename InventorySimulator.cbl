@@ -156,6 +156,17 @@
 
        view-products section.
            move 0 to max-product-id
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
+           *> This is a comment for the demo
            move "PROD_ID" to phdr-product-id
            move "PRODUCT_NAME" to phdr-product-name
            move "DESCRIPTION" to phdr-description
